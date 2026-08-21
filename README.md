@@ -141,4 +141,4 @@ Ensure you have the following installed on your machine:
 - **Frontend**: React (Vite), React Router DOM (v6), Socket.io-client, TailwindCSS.
 - **Backend**: Node.js, Express, Mongoose, Socket.io, JWT (JSON Web Tokens),Crypto, Multer & Cloudinary (for image uploads).
 - **Database**: MongoDB.
-- **Deploy**: VERCEL(Frontend), Render(Backend).
+- **Deploy**: Vercel(Frontend), Render(Backend).
